@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "pxt-HX711": "github:daferdur/pxt-myhx711#v1.0.18"
     },
     "files": [
         "main.blocks",
